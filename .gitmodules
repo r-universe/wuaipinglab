@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sitePath"]
-	path = sitePath
-	url = https://github.com/wuaipinglab/sitepath
-	shallow = true
-	registered = true
